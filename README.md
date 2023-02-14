@@ -12,8 +12,8 @@
 
 <div style="display:inline_block">
   <a href="https://github.com/aelsonmartins">
-    <img width="350em" height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=aelsonmartins&show_icons=true&theme=dark" />
-    <img width="350em" height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aelsonmartins&layout=compact&theme=dark" />
+    <img width="400em" height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=aelsonmartins&show_icons=true&theme=dark" />
+    <img width="400em" height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aelsonmartins&layout=compact&theme=dark" />
   </a>
 </div>
 
