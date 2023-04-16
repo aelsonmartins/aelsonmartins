@@ -1,12 +1,10 @@
-### Olá, me chamo Aelson Martins👋
-##### Desenvolvedor Full Stack Jr.
+### Hello, my name is Aelson Martins👋
+##### Full Stack Developer Jr.
 
 ##
 
-- 💻 Atualmente trabalhando na COPLAN - Gestão em Tecnologia como Desenvolvedor Genexus Pleno
-- ⚙️ O que uso no dia-a-dia: Genexus, HTML, CSS, JavaScript, PostgreSQL, Java, SQL Server, jQuery, WildFly
-- 📚 Estudando React e aprimorando JavaScript
-- ⚡ Apaixonado por programação e carros
+- 💻 Working at COPLAN - as Mid-Level Genexus Developer (Remote)
+- ⚙️ Experience/Knowledge with: Genexus, HTML, CSS, JavaScript, PostgreSQL, Java, SQLServer, jQuery, React
 
 ##
 
