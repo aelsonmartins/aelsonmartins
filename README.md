@@ -2,8 +2,6 @@
 ##### Full Stack Developer Jr.
 
 ##
-
-- 💻 Working at COPLAN - as Mid-Level Genexus Developer (Remote)
 - ⚙️ Experience/Knowledge with: Genexus, HTML, CSS, JavaScript, PostgreSQL, Java, Python, SQLServer, jQuery, React, NodeJS, Express
 
 ##
