@@ -1,8 +1,8 @@
 ### Hello, my name is Aelson Martins👋
-##### Full Stack Developer Jr.
+##### Full Stack Developer
 
 ##
-- ⚙️ Experience/Knowledge with: Genexus, HTML, CSS, JavaScript, PostgreSQL, Java, Python, SQLServer, jQuery, React, NodeJS, Express
+- ⚙️ Skills: HTML, CSS, JavaScript, Java, Python, SQLServer, PostgreSQL, jQuery, React, NodeJS, Express, Genexus
 
 ##
 
