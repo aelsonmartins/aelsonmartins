@@ -2,7 +2,8 @@
 ##### Full Stack Developer
 
 ##
-- ⚙️ Skills: HTML, CSS, JavaScript, Java, Python, SQLServer, PostgreSQL, jQuery, React, NodeJS, Express, Genexus
+- ⚙️ Skills: HTML, CSS, JavaScript, Java, Python, SQLServer, PostgreSQL, jQuery, React, NodeJS, Express, Genexus.
+- ⚙️ Experience with: HTML, CSS, JavaScript, Java, SQLServer, PostgreSQL, jQuery, Genexus.
 
 ##
 
